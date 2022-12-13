@@ -5,7 +5,6 @@ I'm João Pedro K. de Q. Verçosa,
 - Computer Engineer student from PUC-Rio.
 - Research areas: Deep Learning, Convolutional Neural Nerworks (CNNs), Computer Vision and Generative Adversarial Networks (GANs)
 - Working areas: Software Development, Web Development, Scientific Education
-- Member of Driven Education <http://driven.com.br>
 
 
  <div>
