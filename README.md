@@ -10,8 +10,10 @@ I'm João Pedro K. de Q. Verçosa,
 
  <div>
   <a href="https://github.com/JPVercosa">
-   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JPVercosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPVercosa&layout=compact&langs_count=10&&count_private=true&theme=dracula"/>
+   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JPVercosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/JPVercosa">
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPVercosa&layout=compact&langs_count=10&&count_private=true&theme=dracula"/></a>
+ 
  </div>
  
  <br>
